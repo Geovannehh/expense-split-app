@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Divisão de Despesas",
+    "slug": "expense-split-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0D0B14"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": {
+      "adaptiveIcon": { "backgroundColor": "#0D0B14" }
+    }
+  }
+}
